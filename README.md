@@ -1,53 +1,69 @@
-# Chanlog Component 
-A responsive chanlog component built with HTML and CSS as part of the roadmap.sh Frontend
+# Changelog Component
 
-## Preview
+A responsive changelog component built with **HTML5** and **CSS3** as part of the roadmap.sh Frontend Projects.
 
-A Simple timeline component displaying project updates in chronological order.
+## 📖 About
 
-## Features
-- Responsive Design 
-- CSS Flexbox
-- CSS positioning
-- Timeline Layout
-- Modern UI
+This project recreates a responsive changelog component that displays a timeline of project updates. The main focus is learning CSS positioning, layout techniques, and responsive design.
 
-## Technologies Used
+## ✨ Features
+
+- 📱 Responsive design
+- 📅 Timeline layout
+- 🎯 CSS positioning
+- 📦 Flexbox layout
+- 📝 Semantic HTML5
+- 🎨 Google Fonts (Inter)
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
+- Google Fonts
 
-## Project Structure
+## 📂 Project Structure
 
--- index.html
--- style.css
--- favicon.ico
--- README.md
-
-## How to Run
-
-1. Clone the repository
-
-```bash
-git git clone https://github.com/ReyhanAllofadieka/Singel-PageCV.git
+```text
+.
+├── index.html
+├── style.css
+├── favicon.ico
+└── README.md
 ```
 
-2. Open the project folder.
+## 🚀 Getting Started
 
-3. Open `index.html` in your browser or use Live server in VS Code.
+1. Clone this repository
 
-## Repository
-https://github.com/ReyhanAllofadieka/Singel-PageCV
+```bash
+git clone https://github.com/reycolgame2-dot/roadmap.sh4.git
+```
 
-## Author 
+2. Open the project folder
+
+```bash
+cd roadmap.sh4
+```
+
+3. Open `index.html` in your browser or run the project using **Live Server** in Visual Studio Code.
+
+## 🌐 Live Demo
+
+https://reycolgame2-dot.github.io/roadmap.sh4/
+
+## 📋 Project URL
+
+https://roadmap.sh/projects/changelog-component
+
+## 📁 GitHub Repository
+
+https://github.com/reycolgame2-dot/roadmap.sh4
+
+## 👨‍💻 Author
+
 **Reyhan Allofadieka**
 
-Open index.html using your browser or live server.
+- GitHub: https://github.com/reycolgame2-dot
 
-## Live Demo
-
-Coming soon 
-
-## Project URL 
-
-https://roadmap.sh/projetcs/changelog-component
+---
+This project is part of the **Frontend Projects** collection by roadmap.sh.
